@@ -3,7 +3,7 @@ public class Main {
         String caminhoEntrada = "marketing_campaign.csv";
         String caminhoSaida = "consumidores_filtrados.csv";
 
-        ColecaoConsumidor colecao = new VetorDeConsumidores();
+        ColecaoConsumidor colecao = new LLDeConsumidores();
         ManipulaDataset.lerDoArquivoCsv(colecao, caminhoEntrada);
 
         System.out.println("Total de consumidores carregados: " + colecao.obterTotalDeConsumidores());
