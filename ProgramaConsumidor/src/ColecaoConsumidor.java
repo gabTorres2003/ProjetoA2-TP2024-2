@@ -1,5 +1,3 @@
-
-
 public interface ColecaoConsumidor {
     void adicionarConsumidor(Consumidor consumidor);
     void excluirConsumidor(String id);
