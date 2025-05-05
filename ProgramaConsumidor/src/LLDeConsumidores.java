@@ -1,5 +1,3 @@
-
-
 public class LLDeConsumidores implements ColecaoConsumidor {
 
     private class Node {
