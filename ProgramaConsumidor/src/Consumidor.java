@@ -1,5 +1,3 @@
-
-
 public class Consumidor {
     private int id;
     private int anoNascimento;
