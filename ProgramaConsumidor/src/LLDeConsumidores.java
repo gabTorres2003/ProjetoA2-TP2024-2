@@ -89,4 +89,8 @@ public class LLDeConsumidores implements ColecaoConsumidor {
         }
         atual.consumidor = novoConsumidor;
     }
+
+    public void ordenarConsumidores(Ordenador ordenador) {
+        ordenador.ordenar(this);
+    }
 }
