@@ -5,4 +5,5 @@ public interface ColecaoConsumidor {
     int obterTotalDeConsumidores();
     void trocarPosicaoEntreConsumidores(int i, int j);
     void alterarConsumidor(int posicao, Consumidor novoConsumidor);
+    void ordenarConsumidores(Ordenador ordenador);
 }
