@@ -1,6 +1,6 @@
 # ProgramaConsumidor
 
-Bem-vindo ao **ProgramaConsumidor**, uma aplicação Java que gerencia e ordena dados de consumidores a partir de um arquivo CSV. Este projeto utiliza estruturas de dados como lista encadeada e vetor para implementar diferentes algoritmos de ordenação, oferecendo flexibilidade e eficiência.
+Este é o **ProgramaConsumidor**. Projeto de A2 do IFF 2024/2 da disciplina de Técnicas de Programação com Fábio Duncan, é uma aplicação Java que gerencia e ordena dados de consumidores a partir de um arquivo CSV. Este projeto utiliza estruturas de dados como lista encadeada e vetor para implementar diferentes algoritmos de ordenação, oferecendo flexibilidade e eficiência.
 
 ## Descrição
 O programa lê dados de consumidores de um arquivo `marketing_campaign.csv`, armazena-os em coleções (lista encadeada ou vetor) e aplica ordenações como Bubble Sort por escolaridade e Quick Sort por ano de nascimento. Os resultados são salvos em um arquivo `consumidores_filtrados.csv`.
