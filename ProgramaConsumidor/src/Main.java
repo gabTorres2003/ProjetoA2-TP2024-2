@@ -2,7 +2,7 @@ import java.io.File;
 
 public class Main {
     public static void main(String[] args) {
-        String caminhoEntrada = "C:\\Users\\Gabriel Torres\\Meu Drive (gabrielstorres08@gmail.com)\\Gabriel Torres\\IFF\\BSI\\BSI 4 Periodo\\Técnicas de Programação\\ProgramaConsumidor\\src\\marketing_campaign.csv";
+        String caminhoEntrada = // "...\\marketing_campaign.csv";
         String caminhoSaida = "consumidores_filtrados.csv";
 
         File arquivoEntrada = new File(caminhoEntrada);
