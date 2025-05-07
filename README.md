@@ -18,4 +18,4 @@ O programa lê dados de consumidores de um arquivo `marketing_campaign.csv`, arm
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/gabTorres2003
+   git clone https://github.com/gabTorres2003/ProgramaConsumidor.git
